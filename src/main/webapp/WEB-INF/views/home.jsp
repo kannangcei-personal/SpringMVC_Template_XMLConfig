@@ -12,7 +12,8 @@
 </head>
 <body>
 <h1>Hello Kannan G!!
-This a Home page
+    <br>
+    <h3 style="color: cadetblue" >Welcome to Our Home page </h3>
 </h1>
 </body>
 </html>
